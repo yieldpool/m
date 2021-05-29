@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/yieldpool/m/raw/master/yield64_logo.png",
+		"url_png_logo": "https://github.com/yieldpool/m/raw/master/yield_logo.png",
+		"location": "",
+		"social": {
+			"twitter_handle": "yieldpool"
+		},
+    "company": {
+			"name": "YIELD"
+    },
+		"about": {
+			"me": "A pool to return Max YIELD. Max Rewards! Max Profit!Stake and Grow your ADA!",
+			"server": "TOP Security, Up-to-date hardware and Multiple relays. 24/7/365"
+		}
+	},
+	"my-pool-ids": {
+		"0": ""
+	}
+}
