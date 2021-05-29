@@ -1,8 +1,8 @@
 {
   "name":"YIELD farming pool",
   "ticker":"YIELD",
-  "description":"Max YIELD! Max Rewards! Stake and Grow your ADA!",
+  "description":"Max YIELD! Max Rewards! Max Profits! Stake and Grow your ADA!",
   "homepage":"",
   "nonce":"",
-  "extended":"https://"
+  "extended":"https://github.com/yieldpool/m/master/ext.json"
 }
